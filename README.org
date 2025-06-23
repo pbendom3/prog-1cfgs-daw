@@ -6,7 +6,7 @@ Curso auxiliar para el alumnado del módulo de Programación.
 
 ** Unidades de Programación
 1.  [[https://github.com/pbendom3/prog-1cfgs-daw/blob/main/up1.org][Introducción a la programación y al lenguaje Java]]
-2.  [[./pdfs/primos2_ISBAN.pdf][Programación básica: estructuras de control]] 
+2.  [[https://github.com/pbendom3/prog-1cfgs-daw/blob/main/prueba/index.html][Programación básica: estructuras de control]] 
 3.  [[./pdfs/OICV.pdf][Estructuras de datos]] 
 4.  [[./pdfs/OICV.pdf][Programación modular]] 
 5.  [[./pdfs/OICV.pdf][Introducción a la Programación Orientada a Objetos (POO)]] 

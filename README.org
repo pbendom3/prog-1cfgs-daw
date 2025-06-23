@@ -5,7 +5,7 @@ Curso auxiliar para el alumnado del módulo de Programación.
 [[./img/curso-JAVA.jpg]]
 
 ** Unidades de Programación
-1.  [[https://programame.com/documents/ProblemsSets/2024/ProgramaMe-2024-VillaviciosaOlot.pdf][Introducción a la programación y al lenguaje Java]]
+1.  [[https://github.com/pbendom3/prog-1cfgs-daw/blob/main/up1.org][Introducción a la programación y al lenguaje Java]]
 2.  [[./pdfs/primos2_ISBAN.pdf][Programación básica: estructuras de control]] 
 3.  [[./pdfs/OICV.pdf][Estructuras de datos]] 
 4.  [[./pdfs/OICV.pdf][Programación modular]] 

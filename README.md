@@ -5,7 +5,7 @@
 ![img/app.png](img/curso-JAVA.jpg)
 
 ## Unidades de Programación
-1.  [Introducción a la programación y al lenguaje Java](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/up1.org)
+1.  [Introducción a la programación y al lenguaje Java](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP1/up1.md)
 2.  [Programación básica: estructuras de control](https://pbendom3.github.io/prog-1cfgs-daw/prueba/index.html)
 3.  [Estructuras de datos]()
 4.  [Programación modular]()

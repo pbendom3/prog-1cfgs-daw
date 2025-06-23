@@ -2,7 +2,7 @@
 
 Curso auxiliar para el alumnado del módulo de Programación.
 
-[[./imagenes/curso-JAVA.jpg]]
+[[./img/curso-JAVA.jpg]]
 
 ** Unidades de Programación
 1.  [[https://programame.com/documents/ProblemsSets/2024/ProgramaMe-2024-VillaviciosaOlot.pdf][Introducción a la programación y al lenguaje Java]]

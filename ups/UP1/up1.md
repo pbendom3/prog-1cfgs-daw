@@ -1,6 +1,6 @@
 # UP1. Introducción a la programación y al lenguaje Java
 
-![img/app.png](img/java_basico.png)
+![java basico](java_basico.png)
 
 ## Estructura de la unidad
 [INTRO. ¿Cómo funcionan los programas?]()

@@ -10,4 +10,6 @@
 6.  [Matrices (arrays bidimensionales)]()
 7.  [Tratamiento de vectores en matrices]()
    
-[EXÁMENES]()
+## EXÁMENES
+- [Teórico](11_EXAMEN_TEÓRICO_UD3.pdf)
+- [Práctico](12_EXAMEN_PRÁCTICO_UD3.pdf)

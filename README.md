@@ -11,7 +11,7 @@
 4.  [Programación modular](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP4/up4.md)
 5.  [Introducción a la Programación Orientada a Objetos (POO)](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP5/up5.md)
 6.  [Uso avanzado de clases y objetos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP6/up6.md)
-7.  [Colecciones dinámicas de datos y programación funcional]()
+7.  [Colecciones dinámicas de datos y programación funcional](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP7/up7.md)
 8.  [Programación gráfica y acceso a datos]()
 
 [EXÁMENES DE RECUPERACIÓN](https://pbendom3.github.io/prog-1cfgs-daw/prueba/index.html)

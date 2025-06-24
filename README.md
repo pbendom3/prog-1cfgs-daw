@@ -4,7 +4,7 @@
 
 ![img/app.png](img/curso-JAVA.jpg)
 
-## Unidades de Programación
+## :books: Unidades de Programación
 1.  [Introducción a la programación y al lenguaje Java](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP1/up1.md)
 2.  [Programación básica: estructuras de control](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP2/up2.md)
 3.  [Estructuras de datos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP3/up3.md)
@@ -17,7 +17,7 @@
 ---
 
 > [!TIP]
-> [EXÁMENES DE RECUPERACIÓN](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/RECUS/recus.md)
+> :bookmark_tabs: [EXÁMENES DE RECUPERACIÓN](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/RECUS/recus.md)
 
 
 [prueba](https://pbendom3.github.io/prog-1cfgs-daw/prueba/index.html)

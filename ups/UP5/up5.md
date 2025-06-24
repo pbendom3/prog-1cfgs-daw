@@ -15,4 +15,7 @@
 
 [Ampliación [pre-examen]. App Bancaria]()
 
-[EXÁMENES]()
+## EXÁMENES
+- [Teórico](9_EXAMEN_TEÓRICO_UD5.pdf)
+- [Práctico - modelo A](10_EXAMEN_PRÁCTICO_UD5.pdf)
+- [Práctico - modelo B](11_EXAMEN_PRÁCTICO_UD5.pdf)

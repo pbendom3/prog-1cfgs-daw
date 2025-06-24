@@ -16,6 +16,8 @@
 
 ---
 
-[EXÁMENES DE RECUPERACIÓN](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/RECUS/recus.md)
+> [!TIP]
+> [EXÁMENES DE RECUPERACIÓN](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/RECUS/recus.md)
+
 
 [prueba](https://pbendom3.github.io/prog-1cfgs-daw/prueba/index.html)

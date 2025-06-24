@@ -9,4 +9,7 @@
 3.  [Lenguajes de programación]()
 4.  [Fundamentos del lenguaje Java]() 
 
-[EXÁMENES]()
+## EXÁMENES
+- [Teórico](1_EXAMEN_TEÓRICO_UD1.pdf)
+- [Práctico - modelo A](2_EXAMEN_PRÁCTICO_UD1_modelo A.pdf)
+- [Práctico - modelo B](3_EXAMEN_PRÁCTICO_UD1_modelo B.pdf)

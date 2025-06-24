@@ -17,4 +17,5 @@
 
 **Fase 3**. Exposición + taller de evaluación entre iguales.
 
-[EXÁMENES]()
+## EXAMEN
+[Teórico](8_EXAMEN_TEÓRICO_UD4.pdf)

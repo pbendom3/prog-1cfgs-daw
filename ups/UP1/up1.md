@@ -1,4 +1,4 @@
-# UP1. Introducción a la programación y al lenguaje Java
+# UP1. Introducción a la programación y al lenguaje _Java_
 
 ![java basico](java_basico.png)
 

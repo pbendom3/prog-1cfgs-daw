@@ -12,7 +12,7 @@
 5.  [Introducción a la Programación Orientada a Objetos (POO)](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP5/up5.md) (2ºT - 24h)
 6.  [Uso avanzado de clases y objetos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP6/up6.md) (2ºT - 28h)
 7.  [Colecciones dinámicas de datos y programación funcional](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP7/up7.md) (2ºT - 32h + 12h proyecto)
-8.  [Programación gráfica y acceso a datos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP8/up8.md) (3ºT - 48h) **- Periodo de Formación en Empresa**
+8.  [Programación gráfica y acceso a datos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP8/up8.md) (3ºT - 48h) **Periodo de Formación en Empresa** :construction_worker:
 
 ---
 

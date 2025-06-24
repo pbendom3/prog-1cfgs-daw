@@ -12,7 +12,7 @@
 5.  [Introducción a la Programación Orientada a Objetos (POO)](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP5/up5.md)
 6.  [Uso avanzado de clases y objetos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP6/up6.md)
 7.  [Colecciones dinámicas de datos y programación funcional](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP7/up7.md)
-8.  [Programación gráfica y acceso a datos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP8/up8.md)
+8.  [Programación gráfica y acceso a datos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP8/up8.md) **- Periodo Formación en Empresa**
 
 ---
 

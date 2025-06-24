@@ -15,6 +15,6 @@ Fase 1. Elección de proyecto.
 
 Fase 2. Desarrollo, documentación y entrega del proyecto.
 
-Fase 3. Exposición + taller de evaluación entre iguales
+Fase 3. Exposición + taller de evaluación entre iguales.
 
 [EXÁMENES]()

@@ -1,0 +1,18 @@
+# UP5. Introducción a la Programación Orientada a Objetos (POO)
+![objetos](objetos.png)
+
+## Estructura de la unidad
+1.  [Introducción a la POO]()
+2.  [Método toString() y uso de elementos static]()
+3.  [Relaciones simples entre clases]()
+4.  [BONUS. ArrayList de objetos]()
+   
+[Práctica 1. "El Formiguero" y "La Rebelión"]()
+
+[Práctica 2. [PlantUML] Funcionalidades útiles para la POO (diagramas de clases automáticos)]()
+
+[Práctica 3. Librerías de ayuda para la implementación de la POO: LOMBOK]()
+
+[Ampliación [pre-examen]. App Bancaria]()
+
+[EXÁMENES]()

@@ -10,4 +10,7 @@
    
 [Práctica 2. Copa del Rey: Mutxamel FC vs Real Madrid]()
 
-[EXÁMENES]()
+## EXÁMENES
+- [Teórico](8_EXAMEN_TEÓRICO_UD6.pdf)
+- [Práctico - modelo A](9_EXAMEN_PRÁCTICO_UD6.pdf)
+- [Práctico - modelo B](10_EXAMEN_PRÁCTICO_UD6.pdf)

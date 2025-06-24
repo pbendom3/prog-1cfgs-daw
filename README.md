@@ -7,7 +7,7 @@
 ## Unidades de Programación
 1.  [Introducción a la programación y al lenguaje Java](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP1/up1.md)
 2.  [Programación básica: estructuras de control](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP2/up2.md)
-3.  [Estructuras de datos]()
+3.  [Estructuras de datos](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/UP3/up3.md)
 4.  [Programación modular]()
 5.  [Introducción a la Programación Orientada a Objetos (POO)]()
 6.  [Uso avanzado de clases y objetos]()

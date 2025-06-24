@@ -12,4 +12,8 @@
 6.  [BONUS. Clase Random (generación de valores aleatorios)]()
 7.  [Trazas]()
    
-[EXÁMENES]()
+## EXÁMENES
+- [Teórico - modelo A](1_EXAMEN_TEÓRICO_UD2_DAM.pdf)
+- [Teórico - modelo B](2_EXAMEN_TEÓRICO_UD2_DAW.pdf)
+- [Práctico - modelo A](3_EXAMEN_PRÁCTICO_UD2_A.pdf)
+- [Práctico - modelo A](4_EXAMEN_PRÁCTICO_UD2_B.pdf)

@@ -19,7 +19,7 @@
 
       - [Práctica 3. Comprobador de ISBN](Práctica_3_Comprobador_ISBN.pdf)
    
-:gift: [BONUS. Clase Random (generación de valores aleatorios)]()
+:gift: [BONUS. Clase Random (generación de valores aleatorios)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_6_random/index.html)
    
 5.  [Trazas]()
    

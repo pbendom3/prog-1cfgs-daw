@@ -2,7 +2,7 @@
 ![estructuras](estructuras.png)
 
 ## Estructura de la unidad
-1.  [Colecciones - listas (List), colas (Queue) y conjuntos (Set)]()
+1.  [Colecciones - listas (List), colas (Queue) y conjuntos (Set)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP7/7_1_colecciones/index.html)
 2.  [Mapas o diccionarios (interfaz _Map_ --> (_clave-valor_))]()
 3.  [Métodos útiles para la manipulación de colecciones]()
 4.  [BONUS. Tipos enumerados (_enum_)]()

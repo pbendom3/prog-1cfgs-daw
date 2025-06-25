@@ -12,9 +12,9 @@
 
 🎁 [BONUS. Herramientas IA para la implementación de modelos de aprendizaje automático en aplicaciones (Teachable Machine + Tensorflow)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/tm/index.html)
 
-3.  [Ficheros y flujos en Java]()
+3.  [Ficheros y flujos en Java](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_3_ficheros_flujos/index.html)
 
-      - **Práctica 3. Manejo de ficheros en Java.**
+      - [Práctica 3. Manejo de ficheros en Java.](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_3_ficheros_flujos/prctica_3_manejo_de_ficheros_en_java.html)
    
 4.  [Serialización de objetos. Ficheros JSON y consumo de APIs.]()
 

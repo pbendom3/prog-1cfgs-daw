@@ -10,7 +10,7 @@
 
       - **Práctica 2. Mi primer CRUD: mostrar y manipular datos desde una _TableView_ de _JavaFX_.**
 
-🎁 [BONUS. Herramientas IA para la implementación de modelos de aprendizaje automático en aplicaciones (Teachable Machine + Tensorflow)]()
+🎁 [BONUS. Herramientas IA para la implementación de modelos de aprendizaje automático en aplicaciones (Teachable Machine + Tensorflow)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_3_tm/index.html)
 
 3.  [Ficheros y flujos en Java]()
 

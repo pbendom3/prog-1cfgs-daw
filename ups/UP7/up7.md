@@ -16,7 +16,11 @@
 - [Teórico](6_EXAMEN_TEÓRICO_UD7.pdf)
 - [Práctico](7_EXAMEN_PRÁCTICO_UD7.pdf)
 
+---
+
 6. [Programación funcional. Funciones lambda y operaciones intermedias streams]()
+
+---
 
 ### Proyecto por equipos
 

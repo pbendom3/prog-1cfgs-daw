@@ -21,7 +21,7 @@
    
 :gift: [BONUS. Clase Random (generación de valores aleatorios)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_6_random/index.html)
    
-5.  [Trazas]()
+5.  [Trazas](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_7_trazas/index.html)
    
 ## EXÁMENES
 - [Teórico - modelo A](1_EXAMEN_TEÓRICO_UD2_DAM.pdf)

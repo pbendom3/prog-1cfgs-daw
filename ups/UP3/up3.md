@@ -8,7 +8,7 @@
     
 4.  [Ampliación split() y uso de asList()](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_2_split_aslist/index.html)
 5.  [Ordenación de arrays](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_3_ordenacion/index.html)
-6.  [Eliminar duplicados de un array con el método .distinct()]()
+6.  [Eliminar duplicados de un array con el método .distinct()](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_4_duplicados/index.html)
 7.  [BONUS [pre-matrices]. Etiquetar (bautizar) bucles anidados]()
 8.  [Matrices (arrays bidimensionales)]()
 9.  [Tratamiento de vectores en matrices]()

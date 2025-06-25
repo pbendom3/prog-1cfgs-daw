@@ -8,7 +8,7 @@
 
     🎁 [BONUS. ArrayList de objetos](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP5/5_4_arraylists/index.html)
    
-- [Práctica 1. "El Formiguero" y "La Rebelión"](5_Práctica_El Formiguero.pdf)
+- [Práctica 1. "El Formiguero" y "La Rebelión"](5_Práctica_ElFormiguero.pdf)
 
 - [Práctica 2. [PlantUML] Funcionalidades útiles para la POO (diagramas de clases automáticos)](6_Práctica2_Modelado_PlantUML.pdf)
 

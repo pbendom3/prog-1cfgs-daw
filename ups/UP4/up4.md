@@ -15,6 +15,8 @@
 
      <img src="JUnit.png" width="300" height="100"/>
 
+---
+
 ### Proyecto individual
 
 **Fase 1**. Elección de proyecto :space_invader:
@@ -23,5 +25,7 @@
 **Fase 2**. Desarrollo, documentación y entrega del proyecto :file_folder:
 
 **Fase 3**. Exposición + taller de evaluación entre iguales :speech_balloon:
+
+---
 
 ## EXAMEN [Teórico](8_EXAMEN_TEÓRICO_UD4.pdf)

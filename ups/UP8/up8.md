@@ -8,7 +8,7 @@
    
 2.  [Bases de datos relacionales. MySQL/MariaDB](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_2_bbdd_mariadb/index.html)
 
-      - **Práctica 2. Mi primer CRUD: mostrar y manipular datos desde una _TableView_ de _JavaFX_.**
+      - [Práctica 2. Mi primer CRUD: mostrar y manipular datos desde una _TableView_ de _JavaFX](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_2_bbdd_mariadb/prctica_2_mi_primer_crud_mostrar_y_manipular_datos_desde_una_tableview_de_javafx.html)
 
 🎁 [BONUS. Herramientas IA para la implementación de modelos de aprendizaje automático en aplicaciones (Teachable Machine + Tensorflow)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_3_tm/index.html)
 

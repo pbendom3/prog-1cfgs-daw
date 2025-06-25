@@ -6,7 +6,7 @@
 
       - **Práctica 1. Entrega tutorial: App pruebas en _JavaFX_.**
    
-2.  [Bases de datos relacionales. MySQL/MariaDB]()
+2.  [Bases de datos relacionales. MySQL/MariaDB](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_2_bbdd_mariadb/index.html)
 
       - **Práctica 2. Mi primer CRUD: mostrar y manipular datos desde una _TableView_ de _JavaFX_.**
 

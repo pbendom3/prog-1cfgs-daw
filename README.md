@@ -1,6 +1,6 @@
 # Programación - 1º DAW (curso 24-25)
 
-> Curso auxiliar para el alumnado del módulo de Programación :man_technologist:
+> Curso auxiliar para el alumnado del módulo de **Programación** :man_technologist:
 
 ![curso](curso-JAVA.jpg)
 
@@ -18,6 +18,3 @@
 
 > [!TIP]
 > :bookmark_tabs: [EXÁMENES DE RECUPERACIÓN](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/ups/RECUS/recus.md)
-
-
-[prueba](https://pbendom3.github.io/prog-1cfgs-daw/prueba/index.html)

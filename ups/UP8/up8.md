@@ -2,7 +2,7 @@
 ![fx](fx.png)
 
 ## Estructura de la unidad
-1.  [Introducción a las aplicaciones JavaFX y Scene Builder](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_1_javafx/index.html)
+1.  [Introducción a las aplicaciones JavaFX y Scene Builder](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_1_fx/index.html)
 
       - Práctica 1. Entrega tutorial: App pruebas en JavaFX.
    

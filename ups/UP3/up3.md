@@ -3,12 +3,15 @@
 
 ## Estructura de la unidad
 1.  [Estructura de los vectores (arrays)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_1_arrays/index.html)
-2.  [Ampliación split() y uso de asList()]()
-3.  [Ordenación de arrays]()
-4.  [Eliminar duplicados de un array con el método .distinct()]()
-5.  [BONUS [pre-matrices]. Etiquetar (bautizar) bucles anidados]()
-6.  [Matrices (arrays bidimensionales)]()
-7.  [Tratamiento de vectores en matrices]()
+
+     - [Práctica 1. Batalla de samuráis](2_Práctica 1. Batalla de samuráis.pdf)
+    
+4.  [Ampliación split() y uso de asList()]()
+5.  [Ordenación de arrays]()
+6.  [Eliminar duplicados de un array con el método .distinct()]()
+7.  [BONUS [pre-matrices]. Etiquetar (bautizar) bucles anidados]()
+8.  [Matrices (arrays bidimensionales)]()
+9.  [Tratamiento de vectores en matrices]()
    
 ## EXÁMENES
 - [Teórico](11_EXAMEN_TEÓRICO_UD3.pdf)

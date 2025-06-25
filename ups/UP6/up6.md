@@ -9,7 +9,7 @@
      
 3.  [Interfaces y clases anónimas](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_3_interfaces_clases_anonimas/index.html)
 
-🎁 [BONUS. Tipos enumerados (_enum_)]()
+🎁 [BONUS. Tipos enumerados (_enum_)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_4_enums/index.html)
 
 4.  [Excepciones personalizadas]()
    

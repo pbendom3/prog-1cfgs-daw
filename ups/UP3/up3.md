@@ -6,7 +6,7 @@
 
      - [Práctica 1. Batalla de samuráis](2_Práctica1_Batalla_de_samuráis.pdf)
     
-4.  [Ampliación split() y uso de asList()]()
+4.  [Ampliación split() y uso de asList()](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_2_split_aslist/index.html)
 5.  [Ordenación de arrays]()
 6.  [Eliminar duplicados de un array con el método .distinct()]()
 7.  [BONUS [pre-matrices]. Etiquetar (bautizar) bucles anidados]()

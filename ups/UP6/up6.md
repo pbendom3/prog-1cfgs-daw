@@ -4,7 +4,7 @@
 ## Estructura de la unidad
 1.  [Herencia y polimorfismo](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_1_herencia/index.html)
 2.  [Clases abstractas (_abstract_)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_2_abstractas/index.html)
-3.  [Interfaces y clases anónimas]()
+3.  [Interfaces y clases anónimas](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_3_interfaces_clases_anonimas/index.html)
 4.  [BONUS. Tipos enumerados (_enum_)]()
 5.  [Excepciones personalizadas]()
    

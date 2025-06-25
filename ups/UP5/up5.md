@@ -6,15 +6,15 @@
 2.  [Método toString() y uso de elementos static](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP5/5_2_tostrinc_static/index.html)
 3.  [Relaciones simples entre clases](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP5/5_3_relaciones/index.html)
 
-    🎁 [BONUS. ArrayList de objetos]()
+    🎁 [BONUS. ArrayList de objetos](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP5/5_4_arraylists/index.html)
    
-[Práctica 1. "El Formiguero" y "La Rebelión"]()
+- [Práctica 1. "El Formiguero" y "La Rebelión"]()
 
-[Práctica 2. [PlantUML] Funcionalidades útiles para la POO (diagramas de clases automáticos)]()
+- [Práctica 2. [PlantUML] Funcionalidades útiles para la POO (diagramas de clases automáticos)]()
 
-[Práctica 3. Librerías de ayuda para la implementación de la POO: LOMBOK]()
+- [Práctica 3. Librerías de ayuda para la implementación de la POO: LOMBOK]()
 
-[Ampliación [pre-examen]. App Bancaria]()
+:heavy_plus_sign: [Ampliación [pre-examen]. App Bancaria]()
 
 ## EXÁMENES
 - [Teórico](9_EXAMEN_TEÓRICO_UD5.pdf)

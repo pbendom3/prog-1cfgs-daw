@@ -8,15 +8,18 @@
 
       - [Práctica 1. Número de la suerte](Práctica1_Número_de_la_suerte.pdf)
      
-3.  [Control de excepciones (nivel 2)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_2_excepciones/index.html)
-4.  [Estructuras de control condicional](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_3_condicionales/index.html)
+2.  [Control de excepciones (nivel 2)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_2_excepciones/index.html)
+3.  [Estructuras de control condicional](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_3_condicionales/index.html)
 
       - [Práctica 2. Calculadora simple](Práctica_2_Calculadora.pdf)
 
-6.  [BONUS: el operador ternario en Java]()
-7.  [Estructuras de control repetitivas/iterativas (bucles)]()
-8.  [BONUS. Clase Random (generación de valores aleatorios)]()
-9.  [Trazas]()
+:gift: [BONUS: el operador ternario en Java](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_4_ternario/index.html)
+
+4.  [Estructuras de control repetitivas/iterativas (bucles)]()
+   
+:gift: [BONUS. Clase Random (generación de valores aleatorios)]()
+   
+10.  [Trazas]()
    
 ## EXÁMENES
 - [Teórico - modelo A](1_EXAMEN_TEÓRICO_UD2_DAM.pdf)

@@ -24,8 +24,8 @@
 
 ### Proyecto por equipos
 
-  **Fase 1**. Elección de proyecto.
+  **Fase 1**. Elección de proyecto :space_invader:
   
-  **Fase 2**. Desarrollo, documentación y entrega del proyecto.
+  **Fase 2**. Desarrollo, documentación y entrega del proyecto :file_folder:
   
-  **Fase 3**. Exposición + taller de evaluación entre iguales.
+  **Fase 3**. Exposición + taller de evaluación entre iguales :speech_balloon:

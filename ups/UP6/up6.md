@@ -13,7 +13,7 @@
 
 4.  [Excepciones personalizadas]()
    
-- [Práctica 2. Copa del Rey: Mutxamel FC vs Real Madrid]()
+      - [Práctica 2. Copa del Rey: Mutxamel FC vs Real Madrid]()
 
 ## EXÁMENES
 - [Teórico](8_EXAMEN_TEÓRICO_UD6.pdf)

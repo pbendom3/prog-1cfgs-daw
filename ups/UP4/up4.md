@@ -7,7 +7,7 @@
 
      [Ampliación ejercicios vectores y matrices (selección olimpiada)](3_ejercicios.pdf)
   
-4.  [Recursividad]()
+4.  [Recursividad](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP4/4_3_recursividad/index.html)
 5.  [BONUS. Buenas prácticas: Javadoc]()
 6.  [Introducción a las pruebas unitarias con JUnit]()
 

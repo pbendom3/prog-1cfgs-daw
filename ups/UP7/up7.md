@@ -8,7 +8,7 @@
    
       - [Práctica. Servicio de compra online en MERCADAW](4_MERCADAW.pdf)
 
-:pushpin: [Tutorial - Generar documentación en formato Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+        :pushpin: [Tutorial - Generar documentación en formato Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 🎁 [BONUS. Manipulación de cadenas de texto con StringBuilder]()
 

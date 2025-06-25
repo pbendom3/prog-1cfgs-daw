@@ -11,9 +11,9 @@
 
 🎁 [BONUS. Tipos enumerados (_enum_)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_4_enums/index.html)
 
-4.  [Excepciones personalizadas]()
+4.  [Excepciones personalizadas](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_5_excepciones/index.html)
    
-      - [Práctica 2. Copa del Rey: Mutxamel FC vs Real Madrid]()
+      - [Práctica 2. Copa del Rey: Mutxamel FC vs Real Madrid](7_Práctica_2_Modernización_MUTXAMEL.pdf)
 
 ## EXÁMENES
 - [Teórico](8_EXAMEN_TEÓRICO_UD6.pdf)

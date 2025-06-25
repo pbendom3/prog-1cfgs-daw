@@ -15,7 +15,9 @@
 
 :gift: [BONUS: el operador ternario en Java](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_4_ternario/index.html)
 
-4.  [Estructuras de control repetitivas/iterativas (bucles)]()
+4.  [Estructuras de control repetitivas/iterativas (bucles)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_5_bucles/index.html)
+
+      - [Práctica 3. Comprobador de ISBN](Práctica_3_Comprobador_ISBN.pdf)
    
 :gift: [BONUS. Clase Random (generación de valores aleatorios)]()
    

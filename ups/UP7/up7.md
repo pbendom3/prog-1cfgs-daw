@@ -10,7 +10,7 @@
 
         :pushpin: [Tutorial - Generar documentación en formato Markdown](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
-🎁 [BONUS. Manipulación de cadenas de texto con StringBuilder]()
+🎁 [BONUS. Manipulación de cadenas de texto con StringBuilder](5_BONUS_StringBuilder.pdf)
 
 ### EXÁMENES
 - [Teórico](6_EXAMEN_TEÓRICO_UD7.pdf)

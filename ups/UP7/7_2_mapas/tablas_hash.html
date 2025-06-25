@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="es">
+<head>
+<link rel="stylesheet" type="text/css" href="base.css" />
+<link rel="stylesheet" type="text/css" href="exe_highlighter.css" />
+<link rel="stylesheet" type="text/css" href="content.css" />
+<link rel="stylesheet" type="text/css" href="nav.css" />
+<meta http-equiv="content-type" content="text/html;  charset=utf-8" />
+<title>Tablas Hash | 7.2. Mapas </title>
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
+<meta name="author" content="Patricia Benavente" />
+<link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
+<meta name="generator" content="eXeLearning 2.9 - exelearning.net" />
+<!--[if lt IE 9]><script type="text/javascript" src="exe_html5.js"></script><![endif]-->
+<script type="text/javascript" src="exe_jquery.js"></script>
+<script type="text/javascript" src="exe_highlighter.js"></script>
+<script type="text/javascript" src="common_i18n.js"></script>
+<script type="text/javascript" src="common.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+</head>
+<body class="exe-web-site" id="exe-node-1"><script type="text/javascript">document.body.className+=" js"</script>
+<div id="content">
+<p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
+<header id="header" ><div id="headerContent">7.2. Mapas</div></header>
+<nav id="siteNav">
+<ul>
+   <li><a href="index.html" class="daddy main-node">7.2. Mapas o diccionarios</a></li>
+   <li id="active"><a href="tablas_hash.html" class="active no-ch">Tablas Hash</a></li>
+   <li><a href="implementacin_interna_de_hashmap_como_tabla_hash_en_java.html" class="no-ch">Implementación interna de HashMap como Tabla Hash en Java</a></li>
+   <li><a href="diccionario_espaol__ingls.html" class="no-ch">Diccionario Español - Inglés</a></li>
+</ul>
+</nav>
+<div id='topPagination'>
+<nav class="pagination noprt">
+<a href="index.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="implementacin_interna_de_hashmap_como_tabla_hash_en_java.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+<div id="main-wrapper">
+<section id="main">
+<header id="nodeDecoration"><h1 id="nodeTitle">Tablas Hash</h1></header>
+<article class="iDevice_wrapper textIdevice" id="id1">
+<div class="iDevice emphasis0" >
+<div id="ta1_128_2" class="block iDevice_content">
+<div class="exe-text"><p style="text-align: justify;">Una tabla <em>hash</em> es simplemente una estructura de datos que organiza los elementos en "celdas" usando una función matemática llamada función <em>hash</em>. Esta función convierte las claves (como "<em>Juan</em>") en números, que se usan como índices para colocar los valores en en un <em>array</em> o lista.</p>
+<p><img src="img4.2.png" width="621" height="426" alt="2" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;">Funciona de la siguiente manera:</p>
+<p style="padding-left: 30px; text-align: justify;"><strong>1. Se aplica una función <em>hash</em> a la clave</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Ejemplo: si la clave es "<em>Juan</em>", la función <em>hash</em> genera un número (índice en el <em>array</em> a guardar el valor). Por ejemplo, <em><strong>8</strong></em>.</p>
+<p style="padding-left: 30px; text-align: justify;"><strong>2. Se almacena el valor en la posición del array indicada por la función hash</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Si <em>hash("Juan") = 8</em>, entonces <em>"Juan" → 25"</em> se guarda en la <strong><em>posición 8</em></strong> de la tabla.</p>
+<p style="padding-left: 60px;"><img src="img2.png" width="230" height="328" alt="2" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="padding-left: 30px; text-align: justify;"><strong>3. Cuando queremos acceder a un valor, la función <em>hash</em> coge la clave ("<em>Juan</em>"), calcula el número de índice y encuentra rápidamente la casilla que corresponde</strong></p>
+<p style="padding-left: 60px; text-align: justify;">Cuando hacemos <strong><em>get("Juan")</em></strong>, la función <em>hash</em> obtiene el índice 8 y recupera el valor <em><strong>25</strong></em>.</p>
+<hr />
+<h5>¿Y si con claves distintas se obtiene la misma posición?</h5>
+<p>Cuando dos claves diferentes producen el mismo índice, <span style="background-color: #ffff99;">ocurre una <span style="text-decoration: underline; color: #ff0000; font-size: 18pt;"><strong>colisión</strong></span></span>.</p>
+<p style="padding-left: 120px;"><em><strong>hash("Juan") = 8</strong></em><br /><em><strong>hash("Ana") = 8         </strong></em>ambos datos quieren ocupar la misma posición en la tabla.</p>
+<p style="text-align: justify;">Una buena función <em>hash</em> debería generar posiciones aleatorias y uniformemente distribuidas en la tabla para minimizar las <strong>colisiones</strong>: cuando dos elementos diferentes generan la misma posición en la tabla. Si la función <em>hash</em> no es lo suficientemente buena, pueden producirse colisiones frecuentes y disminuir el rendimiento de la tabla <em>hash</em>.</p>
+<p><img src="img4.1.png" width="619" height="292" alt="9" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="text-align: justify;"><strong>Soluciones para las colisiones</strong></p>
+<p style="text-align: justify;">Existen dos formas principales para manejar colisiones:</p>
+<ul>
+<li style="text-align: justify;">
+<p><strong>Encadenamiento </strong><em><strong>(Chaining)</strong></em>. Usa una lista en cada índice para almacenar múltiples valores con la misma clave. En <em>Java</em>, <em>HashMap</em> usa internamente listas enlazadas.</p>
+</li>
+</ul>
+<div class="highlighted-code code-style-2 language-java line-numbers">
+<div>
+<pre><code>// representación conceptual
+tablaHash[8] -&gt; ["Juan" → 25] -&gt; ["Ana" → 30]
+</code></pre>
+</div>
+</div>
+<p style="padding-left: 60px;"><img src="img3.png" width="332" height="331" alt="4" style="display: block; margin-left: auto; margin-right: auto;" /></p>
+<p style="padding-left: 60px;">Así, la búsqueda en caso de colisión, revisa la lista enlazada.</p>
+<ul>
+<li style="text-align: justify;">
+<p><strong>Dirección abierta (<em>Open Addressing</em>)</strong>. En lugar de usar una lista, si una posición está ocupada, se busca la siguiente disponible en la tabla.</p>
+</li>
+</ul>
+<p><img src="img4.png" width="339" height="312" alt="6" style="display: block; margin-left: auto; margin-right: auto;" /></p></div>
+</div>
+</div>
+</article>
+<div id="packageLicense" class="cc cc-by-sa">
+<p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
+</div>
+</section>
+</div>
+<div id='bottomPagination'>
+<nav class="pagination noprt">
+<a href="index.html" class="prev"><span><span>&laquo; </span>Anterior</span></a> <span class="sep">| </span><a href="implementacin_interna_de_hashmap_como_tabla_hash_en_java.html" class="next"><span>Siguiente<span> &raquo;</span></span></a>
+</nav>
+</div>
+</div>
+<p id="made-with-eXe"><a href="https://exelearning.net/" target="_blank" rel="noopener"><span>Creado con eXeLearning<span> (Ventana nueva)</span></span></a></p><script type="text/javascript" src="_style_js.js"></script></body></html>

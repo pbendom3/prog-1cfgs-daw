@@ -24,4 +24,4 @@
 
 ### Exposición contenidos de programación en FE ò Proyecto Intermodular
 
-> Exposición + taller de evaluación entre iguales.
+> Exposición + taller de evaluación entre iguales :speech_balloon:

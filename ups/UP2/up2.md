@@ -19,7 +19,7 @@
    
 :gift: [BONUS. Clase Random (generación de valores aleatorios)]()
    
-10.  [Trazas]()
+5.  [Trazas]()
    
 ## EXÁMENES
 - [Teórico - modelo A](1_EXAMEN_TEÓRICO_UD2_DAM.pdf)

@@ -2,7 +2,7 @@
 ![herencia](herencia.png)
 
 ## Estructura de la unidad
-1.  [Herencia y polimorfismo]()
+1.  [Herencia y polimorfismo](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_1_herencia/index.html)
 2.  [Clases abstractas (_abstract_)]()
 3.  [Interfaces y clases anónimas]()
 4.  [BONUS. Tipos enumerados (_enum_)]()

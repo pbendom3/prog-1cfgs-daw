@@ -8,7 +8,7 @@
 
       - [Práctica 1. Número de la suerte](Práctica1_Número_de_la_suerte.pdf)
      
-3.  [Control de excepciones (nivel 2)]()
+3.  [Control de excepciones (nivel 2)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_2_excepciones/index.html)
 4.  [Estructuras de control condicional]()
 5.  [BONUS: el operador ternario en Java]()
 6.  [Estructuras de control repetitivas/iterativas (bucles)]()

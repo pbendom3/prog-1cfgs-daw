@@ -6,7 +6,7 @@
 
       - [Práctica 1. Entrega tutorial: App pruebas en _JavaFX_](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_1_fx/prctica_1_entrega_tutorial_app_pruebas_en_javafx.html)
    
-2.  [Bases de datos relacionales. MySQL/MariaDB](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_2_bbdd_mariadb/index.html)
+2.  [Bases de datos relacionales. _MySQL/MariaDB_](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_2_bbdd_mariadb/index.html)
 
       - [Práctica 2. Mi primer CRUD: mostrar y manipular datos desde una _TableView_ de _JavaFX](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_2_bbdd_mariadb/prctica_2_mi_primer_crud_mostrar_y_manipular_datos_desde_una_tableview_de_javafx.html)
 

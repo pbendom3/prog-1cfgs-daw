@@ -14,7 +14,9 @@
   
 8.  [BONUS [pre-matrices]. Etiquetar (bautizar) bucles anidados](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_5_etiquetas/index.html)
 9.  [Matrices (arrays bidimensionales)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_6_matrices/index.html)
-10.  [Tratamiento de vectores en matrices]()
+10.  [Tratamiento de vectores en matrices](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_7_vectores_matrices/index.html)
+
+     - [Práctica 3. Sopa de letras automatizada](10_Práctica_3_Sopa_de_letras.pdf)
    
 ## EXÁMENES
 - [Teórico](11_EXAMEN_TEÓRICO_UD3.pdf)

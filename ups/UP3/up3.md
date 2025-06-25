@@ -13,7 +13,7 @@
      - [Práctica 2. Simulación del sorteo de la Primitiva](6_Práctica2_Simulación_del_sorteo_de_la_Primitiva.pdf)
   
 8.  [BONUS [pre-matrices]. Etiquetar (bautizar) bucles anidados](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_5_etiquetas/index.html)
-9.  [Matrices (arrays bidimensionales)]()
+9.  [Matrices (arrays bidimensionales)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_6_matrices/index.html)
 10.  [Tratamiento de vectores en matrices]()
    
 ## EXÁMENES

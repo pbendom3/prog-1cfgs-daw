@@ -8,13 +8,13 @@
 
     🎁 [BONUS. ArrayList de objetos](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP5/5_4_arraylists/index.html)
    
-- [Práctica 1. "El Formiguero" y "La Rebelión"]()
+- [Práctica 1. "El Formiguero" y "La Rebelión"](5_Práctica_El Formiguero.pdf)
 
-- [Práctica 2. [PlantUML] Funcionalidades útiles para la POO (diagramas de clases automáticos)]()
+- [Práctica 2. [PlantUML] Funcionalidades útiles para la POO (diagramas de clases automáticos)](6_Práctica2_Modelado_PlantUML.pdf)
 
-- [Práctica 3. Librerías de ayuda para la implementación de la POO: LOMBOK]()
+- [Práctica 3. Librerías de ayuda para la implementación de la POO: LOMBOK](7_Práctica3_Librerías_LOMBOK.pdf)
 
-:heavy_plus_sign: [Ampliación [pre-examen]. App Bancaria]()
+:heavy_plus_sign: [Ampliación [pre-examen]. App Bancaria](8_EJERCICIOS_PRE_EXAMEN.pdf)
 
 ## EXÁMENES
 - [Teórico](9_EXAMEN_TEÓRICO_UD5.pdf)

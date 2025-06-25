@@ -2,7 +2,7 @@
 ![array](array.PNG)
 
 ## Estructura de la unidad
-1.  [Estructura de los vectores (arrays)]()
+1.  [Estructura de los vectores (arrays)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_1_arrays/index.html)
 2.  [Ampliación split() y uso de asList()]()
 3.  [Ordenación de arrays]()
 4.  [Eliminar duplicados de un array con el método .distinct()]()

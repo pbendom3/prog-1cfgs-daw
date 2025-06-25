@@ -13,7 +13,7 @@
 
       - [Práctica 2. Calculadora simple](Práctica_2_Calculadora.pdf)
 
-:gift: [BONUS: el operador ternario en Java](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_4_ternario/index.html)
+      :gift: [BONUS: el operador ternario en Java](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_4_ternario/index.html)
 
 4.  [Estructuras de control repetitivas/iterativas (bucles)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_5_bucles/index.html)
 

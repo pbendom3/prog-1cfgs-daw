@@ -16,9 +16,9 @@
 
       - [Práctica 3. Manejo de ficheros en Java.](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_3_ficheros_flujos/prctica_3_manejo_de_ficheros_en_java.html)
    
-4.  [Serialización de objetos. Ficheros JSON y consumo de APIs.]()
+4.  [Serialización de objetos. Ficheros JSON y consumo de APIs.](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_4_serializacion_json/index.html)
 
-      - **Práctica 4. _JSON_ y APIs.**
+      - [Práctica 4. _JSON_ y APIs](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_4_serializacion_json/bonus_consumiendo_apis_externas_desde_java.html)
 
 ## EXAMEN [Teórico](EXAMEN_TEÓRICO_3aEv.pdf)
 

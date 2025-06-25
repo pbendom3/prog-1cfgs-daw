@@ -18,7 +18,7 @@
 
 ---
 
-6. [Programación funcional. Funciones lambda y operaciones intermedias streams]()
+6. [Programación funcional. Funciones lambda y operaciones intermedias streams](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP7/7_3_lambdas/index.html)
 
 ---
 

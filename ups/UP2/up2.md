@@ -4,13 +4,16 @@
 ![control](comtrol.jpg)
 
 ## Estructura de la unidad
-1.  [Trabajando con cadenas de caracteres en Java (textos)]()
-2.  [Control de excepciones (nivel 2)]()
-3.  [Estructuras de control condicional]()
-4.  [BONUS: el operador ternario en Java]()
-5.  [Estructuras de control repetitivas/iterativas (bucles)]()
-6.  [BONUS. Clase Random (generación de valores aleatorios)]()
-7.  [Trazas]()
+1.  [Trabajando con cadenas de caracteres en Java (textos)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_1_cadenas/index.html)
+
+      - [Práctica 1. Número de la suerte](Práctica1_Número_de_la_suerte.pdf)
+     
+3.  [Control de excepciones (nivel 2)]()
+4.  [Estructuras de control condicional]()
+5.  [BONUS: el operador ternario en Java]()
+6.  [Estructuras de control repetitivas/iterativas (bucles)]()
+7.  [BONUS. Clase Random (generación de valores aleatorios)]()
+8.  [Trazas]()
    
 ## EXÁMENES
 - [Teórico - modelo A](1_EXAMEN_TEÓRICO_UD2_DAM.pdf)

@@ -1,6 +1,6 @@
 # Programación - 1º DAW (curso 24-25)
 
-> Curso auxiliar para el alumnado del módulo de **Programación** :man_technologist:
+> Curso auxiliar para el alumnado del módulo de **_Programación_** :man_technologist:
 
 ![curso](curso-JAVA.jpg)
 

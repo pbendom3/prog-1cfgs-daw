@@ -1,7 +1,7 @@
 # UP3. Estructuras de datos
 ![array](array.PNG)
 
-## Estructura de la unidad
+## Estructura de la unidad [[Ver en PDF]](imprimir_ud3.pdf)
 1.  [Estructura de los vectores (arrays)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP3/3_1_arrays/index.html)
 
      - [Práctica 1. Batalla de samuráis](2_Práctica1_Batalla_de_samuráis.pdf)

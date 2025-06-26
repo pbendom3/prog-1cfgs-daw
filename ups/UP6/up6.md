@@ -1,7 +1,7 @@
 # UP6. Uso avanzado de clases y objetos
 ![herencia](herencia.png)
 
-## Estructura de la unidad
+## Estructura de la unidad [[Ver en PDF]](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/temas_pdf/imprimir_ud6.pdf)
 1.  [Herencia y polimorfismo](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_1_herencia/index.html)
 2.  [Clases abstractas (_abstract_)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP6/6_2_abstractas/index.html)
 

@@ -3,7 +3,7 @@
 
 ![control](comtrol.jpg)
 
-## Estructura de la unidad
+## Estructura de la unidad [[Ver en PDF]]()
 1.  [Trabajando con cadenas de caracteres en Java (textos)](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP2/2_1_cadenas/index.html)
 
       - [Práctica 1. Número de la suerte](Práctica1_Número_de_la_suerte.pdf)

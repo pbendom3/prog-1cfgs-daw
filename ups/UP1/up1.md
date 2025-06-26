@@ -2,7 +2,7 @@
 
 ![java basico](java_basico.png)
 
-## Estructura de la unidad
+## Estructura de la unidad [[Ver en PDF]]()
 [INTRO. ¿Cómo funcionan los programas?]()
 1.  [Estructura de un programa informático]()
 2.  [Pseudocódigos y diagramas de flujo (DFD)]()

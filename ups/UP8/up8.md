@@ -1,7 +1,7 @@
 # UP8. Programación gráfica y acceso a datos
 ![fx](fx.png)
 
-## Estructura de la unidad [[Ver en PDF]](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/temas_pdf/imprimir_ud8.pdf)
+## Estructura de la unidad [[Ver en PDF]](https://github.com/pbendom3/prog-1cfgs-daw/blob/main/temas_pdf/imprimir_up8.pdf)
 1.  [Introducción a las aplicaciones _JavaFX_ y _Scene Builder_](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_1_fx/index.html)
 
       - [Práctica 1. Entrega tutorial: App pruebas en _JavaFX_](https://pbendom3.github.io/prog-1cfgs-daw/ups/UP8/8_1_fx/prctica_1_entrega_tutorial_app_pruebas_en_javafx.html)

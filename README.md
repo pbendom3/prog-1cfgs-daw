@@ -1,4 +1,4 @@
-# Programación - 1º DAW (curso 24-25)
+# Programación - 1º DAW/DAM (curso 24-25)
 
 > Curso auxiliar para el alumnado del módulo de **_Programación_** :man_technologist:
 
